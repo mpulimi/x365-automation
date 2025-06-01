@@ -13,12 +13,14 @@ Before launching the executable, make sure to configure the user login details i
       "email": "Testuser@gmail.com",
       "password": "Crypto@12345",
       "intervalInMinutes": "10",
-      "closePopups": "true"
+      "closePopups": "false"
     }
   }
 ```
   
-'intervalInMinutes' defines how often the flow should run continuously, with the interval specified in minutes using this parameter.
+'intervalInMinutes' - defines how often the flow should run continuously, with the interval specified in minutes using this parameter.
+
+'closePopups' - Some times it display popups that can interfere with button clicks. If you notice any popup appearing on the page, set this option to true. It will automatically close the popup, allowing the button click to work properly.
 
 ### Prerequisites
 
