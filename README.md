@@ -1,5 +1,5 @@
 # x365-automation
-Automating the x365 Token Claim Process
+Automating the x365 ai Token Claim Process explained in this [video](https://www.youtube.com/watch?v=X8zRZQ_YMwI)
 
 After downloading the files, navigate to the 'Publish' folder and double-click the 'x365auto.exe' file to run the application.
 
