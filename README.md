@@ -1,6 +1,10 @@
 # x365-automation
 Automating the x365 ai Token Claim Process explained in this [video](https://www.youtube.com/watch?v=X8zRZQ_YMwI)
 
+<a href="https://www.youtube.com/watch?v=X8zRZQ_YMwI&t=9s" target="_blank">
+  <img width="556" alt="x365Automate-c-sharp" src="https://github.com/user-attachments/assets/5441888e-3719-4ec8-af19-0974872d9149" />
+</a>
+
 After downloading the files, navigate to the 'Publish' folder and double-click the 'x365auto.exe' file to run the application.
 
 Before launching the executable, make sure to configure the user login details in the 'appsettings.json' file, as shown below.
